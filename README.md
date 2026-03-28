@@ -6,7 +6,7 @@ This project is an implementation of a system for managing data centers and moni
 
 The application simulates a monitoring system for IT infrastructure. It manages servers, user groups, and system alerts, all connected through server IP addresses.
 
-The system processes input files and generates outputs based on different commands, similar to a real monitoring service. :contentReference[oaicite:0]{index=0}
+The system processes input files and generates outputs based on different commands, similar to a real monitoring service.
 
 ## Features
 
@@ -35,6 +35,3 @@ The system processes input files and generates outputs based on different comman
 
 Run the main class with the required arguments for input files. The program reads commands from files and writes results to output files.
 
-## Notes
-
-The project follows the requirements of the POO assignment and uses multiple design patterns together with object-oriented design principles.
